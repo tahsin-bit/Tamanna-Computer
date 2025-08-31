@@ -1,0 +1,15 @@
+{
+  "name": "tamanna-computer-photostet",
+  "version": "1.0.0",
+  "description": "Tamanna Computer and Photostet website",
+  "main": "computer.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "dev": "echo 'Development server not needed for static site'",
+    "preview": "echo 'Use a local server to preview'"
+  },
+  "keywords": ["computer", "photocopy", "services"],
+  "author": "Tamanna Computer and Photostet",
+  "license": "ISC",
+  "type": "module"
+}
