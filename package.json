@@ -8,7 +8,11 @@
     "dev": "echo 'Development server not needed for static site'",
     "preview": "echo 'Use a local server to preview'"
   },
-  "keywords": ["computer", "photocopy", "services"],
+  "keywords": [
+    "computer",
+    "photocopy",
+    "services"
+  ],
   "author": "Tamanna Computer and Photostet",
   "license": "ISC",
   "type": "module"
