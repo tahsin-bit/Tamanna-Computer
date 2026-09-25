@@ -70,15 +70,7 @@ He is widely recognized in the Lakshmipur community for his precision, speed, an
 
 ---
 
-## 📞 Contact
 
-| Method | Details |
-|---|---|
-| 📱 Phone | 01977-622308, 01717-622302 |
-| 📧 Email | tamannainfo96@gmail.com |
-| 💬 WhatsApp | [Chat Now](https://wa.me/8801717622302) |
-
----
 
 ## 🧰 Tech Stack
 
@@ -129,7 +121,7 @@ npx serve .
 
 ---
 
-**Designed & Developed with ❤️ by**
+**Designed & Developed by**
 
 [![Tahsin Ibne Ismail](https://img.shields.io/badge/Tahsin%20Ibne%20Ismail-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tahsin-bit)
 
